@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, date
 
+st.set_page_config(page_title='Momentum Portfolio', layout='wide')
 st.title('Momentum Portfolio')
 
 # Input widgets
